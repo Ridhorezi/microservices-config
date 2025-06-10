@@ -5,6 +5,6 @@ cards:
   message: "Welcome to Bank cards related local APIs "
   contactDetails:
     name: "Ridho Suhaebi Arrowi - Developer"
-    email: "ridhorezi1212@gmail.com"
+    email: "{cipher}29df4a0f13f206fb6faf60e6d91ffcc13ff57fe0ae819446f1fa4919c34457ec981380eb0ce2029a89a1566dff07b0c1"
   onCallSupport:
-    - (62) 81212121212
+    - "{cipher}9b15f90eb4525528df5f581ef53aa2e74113d99faa505ef326066aa0bf05d1404c5763e529f5387ce54d216a4c0050f0"
